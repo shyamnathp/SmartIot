@@ -1,0 +1,11 @@
+﻿  Main.cpp
+  Shape.cpp
+e:\smartiot_assignment\smartiot_assignment\shape.cpp(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\smartiot_assignment\smartiot_assignment\shape.cpp(28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\smartiot_assignment\smartiot_assignment\shape.cpp(88): warning C4804: '<=': unsafe use of type 'bool' in operation
+  Primes.cpp
+  Generating Code...
+  gtest-all.cc
+  gmock-all.cc
+  Generating Code...
+  SmartIot_Assignment.vcxproj -> E:\SmartIot_Assignment\Debug\SmartIot_Assignment.exe
